@@ -1,0 +1,49 @@
+{
+	"cities": [{
+		"keyword": "Yaa",
+		"id": 1,
+		"autocompleteTerm": "YaarMe",
+		"state": "17 Properties"
+	}, {
+		"keyword": "Ya",
+		"id": 2,
+		"autocompleteTerm": "Yash Chemex",
+		"state": "5 Properties"
+	},{
+		"keyword": "Yat",
+		"id": 2,
+		"autocompleteTerm": "Yatra.com",
+		"state": "5 Properties"
+	}, {
+		"keyword": "Ama",
+		"id": 3,
+		"autocompleteTerm": "Amazon",
+		"state": "10 Properties"
+	}, {
+		"keyword": "Insta",
+		"id": 4,
+		"autocompleteTerm": "Instagram",
+		"state": "9 Properties"
+	}, {
+		"keyword": "Face",
+		"id": 5,
+		"autocompleteTerm": "Facebook",
+		"state": "15 Properties"
+	}, {
+		"keyword": "Snap",
+		"id": 5,
+		"autocompleteTerm": "Snapchat",
+		"state": "8 Properties"
+	}, {
+		"keyword": "Zom",
+		"id": 7,
+		"autocompleteTerm": "Zomato",
+		"state": "6 Properties"
+	}, {
+		"keyword": "Sw",
+		"id": 8,
+		"autocompleteTerm": "Swiggy",
+		"state": "6 Properties"
+	}
+	]
+}
